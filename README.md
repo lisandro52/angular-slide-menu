@@ -6,12 +6,16 @@ angular-slide-menu
 Installation
 ------------
 
-You can install it via [npm](#npm) *(recommended for Node.js based projects)*, [bower](#bower), or [manually](#manual).
+You can install it via [bower](#bower).
 
-### <a name="npm"></a> NPM
+### <a name="bower"></a> Bower
 
-First install **angular-slide-menu** as a dependency.
+Install **angular-slide-menu** as a new bower component:
 
-    npm install angular-slide-menu --save
+    bower install angular-slide-menu --save
 
 
+Fork note
+---------
+
+This is a fork of the original **angular-slide-menu**, which wasn't on the bower package repositories.
